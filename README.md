@@ -27,6 +27,4 @@ Check out my repositories where I share my work, including:
 - [LinkedIn](https://www.linkedin.com/in/gregory-fagan-33b7a0279/)
 - [Email](mailto:gregory-fagan@uiowa.edu)
 
----
 
-Thank you for visiting my profile!
