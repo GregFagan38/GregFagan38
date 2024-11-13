@@ -7,7 +7,7 @@ I'm a **Student Athlete** at the **University of Iowa Tippie College of Business
 ## 📚 Current Focus
 
 - Data analytics and business strategy
-- Python, SQL for data analysis and machine learning
+- Python and SQL for data analysis and machine learning
 - Power BI and Tablaue for information visualization
 - Exploring the intersection of technology and business operations
 
@@ -20,7 +20,7 @@ Feel free to explore my repositories where I share my work, including:
 
 ## 📬 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/gregory-fagan-33b7a0279)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - [Email](mailto:gregory-fagan@uiowa.edu)
 
 ---
