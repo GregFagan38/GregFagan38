@@ -8,7 +8,7 @@ I'm a **Student Athlete** at the **University of Iowa Tippie College of Business
 
 - Data analytics and business strategy
 - Python and SQL for data analysis and machine learning
-- Power BI and Tablaue for information visualization
+- Power BI and Tableau for information visualization
 - Exploring the intersection of technology and business operations
 
 ## 🚀 Projects (Coming Soon)
