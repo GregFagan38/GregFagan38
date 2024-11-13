@@ -16,5 +16,11 @@ Check out my repositories where I share my work, including:
 - **Business Intelligence Dashboards**
 
 ## 📬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/gregory-fagan-33b7a0279/)
-- [Email](mailto:gregory-fagan@uiowa.edu)
+
+<a href="https://www.linkedin.com/in/gregory-fagan-33b7a0279/" target="_blank">
+  <button style="background-color:#0072b1; color:white; padding: 10px 20px; border:none; border-radius: 5px; font-size: 16px; cursor:pointer;">LinkedIn</button>
+</a>
+
+<a href="mailto:gregory-fagan@uiowa.edu">
+  <button style="background-color:#d14836; color:white; padding: 10px 20px; border:none; border-radius: 5px; font-size: 16px; cursor:pointer;">Email</button>
+</a>
