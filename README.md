@@ -1,4 +1,4 @@
-# Hi, I'm Greg Fagan! 👋
+# Hi, I'm Greg! 👋
 
 ## About Me
 
