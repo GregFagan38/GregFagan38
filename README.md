@@ -20,7 +20,7 @@ Feel free to explore my repositories where I share my work, including:
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- [LinkedIn](https://www.linkedin.com/in/gregory-fagan-33b7a0279/)
 - [Email](mailto:gregory-fagan@uiowa.edu)
 
 ---
