@@ -10,7 +10,7 @@ I am passionate about **data analysis**, **business strategy**, and leveraging *
 - **Power BI** and **Tableau** for information visualization
 - Exploring the intersection of **Technology** and **Business Operations**
 
-## 🚀 Projects (Coming Soon)
+## 🚀 Projects 
 Check out my repositories where I share my work, including:
 - **Data Analytics Projects**
 - **Business Intelligence Dashboards**
