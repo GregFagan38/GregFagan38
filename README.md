@@ -8,7 +8,6 @@ I am passionate about **data analysis**, **business strategy**, and leveraging *
 - **Data Analytics** and **Business Strategy**
 - **Python** and **SQL** for data analysis and machine learning
 - **Power BI** and **Tableau** for information visualization
-- Exploring the intersection of **Technology** and **Business Operations**
 
 ## 🚀 Projects 
 Check out my repositories where I share my work, including:
