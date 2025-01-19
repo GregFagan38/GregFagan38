@@ -6,7 +6,7 @@ I am passionate about **data analysis**, **business strategy**, and leveraging *
 
 ## 📚 Current Focus
 - **Data Analytics** and **Business Strategy**
-- **Python** and **SQL** for data analysis and machine learning
+- **Python** and **SQL** for data analysis
 - **Power BI** and **Tableau** for information visualization
 
 ## 🚀 Projects 
